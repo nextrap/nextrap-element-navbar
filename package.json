@@ -1,5 +1,5 @@
 {
-  "name": "@nextrap/nextrap-element-navbar",
+  "name": "@nextrap/element-navbar",
   "version": "1.0.0",
   "description": "Nextrap Navbar",
   "main": "./dist/index.js",
